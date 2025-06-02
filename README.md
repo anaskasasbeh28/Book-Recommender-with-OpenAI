@@ -94,10 +94,10 @@ Estimated cost in USD: 0.0135400000
 
 ```
 ├── books_dataset.csv
-├── book_embeddings.csv
 ├── book_recommender_openai_embeddings.ipynb
 └── README.md
 ```
+*Note: I could not upload the 'book_embeddings.csv' file due to its large size..*
 
 ---
 
