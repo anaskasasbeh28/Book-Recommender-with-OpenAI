@@ -143,9 +143,8 @@ Or use `.env` file and `python-dotenv` for better security.
 
 ## 🧑‍💻 Author
 ```
-Developed by Anas – AI & Data Science Enthusiast 👨‍💻
+Developed by Anas and ChatGPT – AI & Data Science Enthusiasts 👨‍💻
 Feel free to reach out or contribute!
 
 ```
-
 ---
